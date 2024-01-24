@@ -34,5 +34,4 @@ public class Tecnico extends Pessoa{
 		this.chamados = chamados;
 	}
 	
-	
 }
